@@ -1,8 +1,8 @@
 {
-  "name": "zhao-project",
+  "name": "chen-project",
   "version": "1.0.0",
   "description": "by name first cli",
-  "author": "zhaoWJ1994",
+  "author": "SUElanlan1995",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
